@@ -14,6 +14,7 @@ Interview process generally consists of online test and F2F interviews. Online t
 ### Operating System
 1. File permissions, managing users and groups(chmod, chown command)
 2. Hard link and Soft link
+   A link in UNIX is a pointer to a file. Like pointers in any programming languages, links in UNIX are pointers pointing to a file or a directory. Creating links is a kind of      shortcuts to access a file.
 3. RAID
 4. Linux run levels
 5. Producer consumer problem
